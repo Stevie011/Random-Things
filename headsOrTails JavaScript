@@ -1,0 +1,10 @@
+//******** simple heads or tails
+
+function headsOrTails(){
+    let ranNum = Math.random()
+    if (ranNum> 0.5){
+        return "Heads"
+    }else{
+        return "Tails"
+    }
+}
