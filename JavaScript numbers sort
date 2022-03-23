@@ -1,0 +1,3 @@
+arr.sort((a,b) => a-b)
+
+//this sorts by numerical value, which .sort() doesn't do properly
